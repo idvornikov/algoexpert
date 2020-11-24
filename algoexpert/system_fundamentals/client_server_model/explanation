@@ -1,0 +1,12 @@
+client(browser) ---> server(www.google.com) (i want to visit https://www.google.com)
+
+1) search ip address of www.google.com
+DNS
+client ---> dns (what ip address www.google.com)
+client <--- dns (ip address of www.google.com is 8.8.8.8)
+
+2) request info from www.google.com
+client ---> https://www.google.com (get info from 8.8.8.8:443 443 https port)
+client <--- server (send html page to client ip address
+
+
