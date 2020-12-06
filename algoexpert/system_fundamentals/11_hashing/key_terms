@@ -1,20 +1,19 @@
-<div class="
-      _2VETeTVuVEIZz8hft8XmYx
-      _3PPQB0bZ1Ka_kVKEHS6ZFy
-      "><div class="_1NVSPYP3hBJSyQIQThJcVr">3 Key Terms</div><svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 292.362 292.362" class="ziG9cplWruSO34u3rlTHj LoFXwCzw82XpctUq-cNO"><path d="M286.935 69.377c-3.614-3.617-7.898-5.424-12.848-5.424H18.274c-4.952 0-9.233 1.807-12.85 5.424C1.807 72.998 0 77.279 0 82.228c0 4.948 1.807 9.229 5.424 12.847l127.907 127.907c3.621 3.617 7.902 5.428 12.85 5.428s9.233-1.811 12.847-5.428L286.935 95.074c3.613-3.617 5.427-7.898 5.427-12.847 0-4.948-1.814-9.229-5.427-12.85z"></path></svg></div><div class="_3eVBLPRkiVIcsNJFJ-3urG" style="transition-duration: 0.3s; height: auto;"><div class="_2uaA-tUdCiVqJRNjXDpITG"><ul class="_1I5cZXKHzF6ScVQqVEQcAG"><li><h4 class="_26j2nOZycoTkwWs4jUzxNq KKuJdRbjYAhq73S-U8Ydv">Consistent Hashing</h4><div class="_2jWYrwMY7TIBQwJddZjOHC"><p>
-  A type of hashing that minimizes the number of keys that need to be remapped
-  when a hash table gets resized. It's often used by load balancers to
-  distribute traffic to servers; it minimizes the number of requests that get
-  forwarded to different servers when new servers are added or when existing
-  servers are brought down.
-</p>
-</div></li><li><h4 class="_26j2nOZycoTkwWs4jUzxNq KKuJdRbjYAhq73S-U8Ydv">Rendezvous Hashing</h4><div class="_2jWYrwMY7TIBQwJddZjOHC"><p>
-  A type of hashing also coined <b>highest random weight</b> hashing. Allows for
-  minimal re-distribution of mappings when a server goes down.
-</p>
-</div></li><li><h4 class="_26j2nOZycoTkwWs4jUzxNq KKuJdRbjYAhq73S-U8Ydv">SHA</h4><div class="_2jWYrwMY7TIBQwJddZjOHC"><p>
-  Short for "Secure Hash Algorithms", the SHA is a collection of cryptographic
-  hash functions used in the industry. These days, SHA-3 is a popular choice to
-  use in a system.
-</p>
-</div></li></ul></div></div>
+Consistent Hashing
+
+A type of hashing that minimizes the number of keys that need to be remapped
+when a hash table gets resized. It's often used by load balancers to
+distribute traffic to servers; it minimizes the number of requests that get
+forwarded to different servers when new servers are added or when existing
+servers are brought down.
+----------------------------------------------------------------------------------------
+Rendezvous Hashing
+
+A type of hashing also coined <b>highest random weight</b> hashing. Allows for
+minimal re-distribution of mappings when a server goes down.
+----------------------------------------------------------------------------------------
+SHA
+
+Short for "Secure Hash Algorithms", the SHA is a collection of cryptographic
+hash functions used in the industry. These days, SHA-3 is a popular choice to
+use in a system.
+----------------------------------------------------------------------------------------
